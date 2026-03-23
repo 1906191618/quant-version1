@@ -1,0 +1,1 @@
+pandas\nnumpy\nyfinance\nnscikit-learn\npyyaml\ntqdm\nrequests\n
